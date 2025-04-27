@@ -6,7 +6,7 @@ Projeto fullstack inspirado em “Criando uma API do ZERO com Node.js e Banco de
 Node.js, Express, Prisma ORM + MongoDB ; React (hooks, fetch) .
 
 ## Instalação  
-1. git clone  
+1. git clone  https://github.com/JorgeALDev/Cadastro-de-Usuarios-API-Frontend-
 2. cd backend && npm install && cp .env.example .env && npm start :contentReference[oaicite:0]{index=0}  
 3. cd ../frontend && npm install && npm start   
 
